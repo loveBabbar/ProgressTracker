@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressTracker</string>
+    <string name="Open">Open</string>
+    <string name="Closed">Closed</string>
+</resources>
